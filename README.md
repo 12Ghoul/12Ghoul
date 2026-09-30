@@ -6,4 +6,4 @@ In addition to stats I also enjoy a number of hobbies:
 1. Climbing
 2. Scuba Diving
 3. Swimming
-4. *Freediving, (I technically haven't tried it just yet...*
+4. *Freediving, I technically haven't tried it just yet...*
