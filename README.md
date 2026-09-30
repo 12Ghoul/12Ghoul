@@ -1,4 +1,4 @@
-# About Me
+# Hi, I'm Aldo
 ## Student
 I am a master's student at **Imperial College London** studying statistics, in the [data science and ML stream](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics-data-science/)
 ## Hobbies
