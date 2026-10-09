@@ -4,8 +4,8 @@ I am a master's student at **Imperial College London** studying statistics, spec
 ## Hobbies
 In addition to stats I also enjoy a number of hobbies:
 1. Climbing
-2. Scuba Diving
-3. Swimming
-4. Freediving, although I technically haven't tried it just yet...
+2. Freediving
+3. Scuba Diving
+4. Swimming
 
 
